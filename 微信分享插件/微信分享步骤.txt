@@ -1,4 +1,4 @@
-将这几个文件放入要分享页面的站点,前提是该站点所在服务器安装了php,get_wxSha.php,jquery-wxshare-1.0.0.min.js,如
+111将这几个文件放入要分享页面的站点,前提是该站点所在服务器安装了php,get_wxSha.php,jquery-wxshare-1.0.0.min.js,如
 果服务器不是windows那就在windows服务器上,建站点  "前缀.ejiubo.net" 放入上面几个文件get_token.php,zx.bat,在服
 务器设置计划任务没1小时获取一次token,存入windows服务器的newfile.txt,测试任务设置是否成功,就点击bat批处理文件
 
